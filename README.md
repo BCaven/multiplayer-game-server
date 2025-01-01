@@ -1,5 +1,7 @@
 # Multiplayer Game Server
 
+This project was created by [Blake Caven](https://github.com/BCaven), [James Lindell](https://github.com/jlindel2), and [Justin Yatsuhashi]()
+
 ## Clients
 
 ![example client](assets/demo_client.png)
